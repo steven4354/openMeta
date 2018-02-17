@@ -1,6 +1,6 @@
 # This full stack application is currently in its early development stages. Readme will be created and application will be deployed this coming week, stay tuned!
 
-# Notes to the developers on this project 
+## Notes to the developers on this project 
 
 Please put notes for the developers here in the readme 
 
