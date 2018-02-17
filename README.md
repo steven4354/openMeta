@@ -1,8 +1,8 @@
-This full stack application is currently in its early development stages. Readme will be created and application will be deployed this coming week, stay tuned!
+# This full stack application is currently in its early development stages. Readme will be created and application will be deployed this coming week, stay tuned!
 
-============================ Notes to the developers on this project >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+# Notes to the developers on this project 
 
-Note from Gene:
+## Note from Gene:
 
 Push to heroku with the following:
 
@@ -14,7 +14,7 @@ Current URLs:
 Front: http://lazy-quicksand.surge.sh/
 Back: https://radiant-taiga-58264.herokuapp.com/
 
-Note from Steven:
+## Note from Steven:
 
 For the authentification to any route
   - add the token from the redux store to props using a container (it is located under the "Token" key in the redux store )
@@ -34,7 +34,7 @@ For the authentification to any route
 
   feel free to slack me for any questions on this -> I can also set the authentification up for a route after you set up the route as well
   
-============================ Notes to the developers on this project >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+## Details on Create-React-App
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
