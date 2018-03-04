@@ -1,8 +1,8 @@
 # This full stack application is currently in its early development stages. Stay tuned for our production ready deployment!
 
-## Notes to the developers on this project 
 
-Please put notes for the developers here in the readme 
+
+
 
 ## Note from Gene:
 
