@@ -1,4 +1,4 @@
-# This full stack application is currently in its early development stages. Stay tuned for our production ready deployment!
+This full stack application is currently in its early development stages. Stay tuned for our production ready deployment!
 
 
 
